@@ -1,4 +1,4 @@
-# Generator
+# Genome Sequences Generator
 Python tool for creating random genome sequences
 
 ## Arguments
